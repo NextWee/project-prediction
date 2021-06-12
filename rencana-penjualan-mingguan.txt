@@ -2,6 +2,8 @@ RENCANA NEXT
 
 - PEMBESARAN LAHAN
   * daerah strategi
+    ^ PROPINSI
+    ^ Kecamatan
   * senang bersaing
 - Belajar seo
-- MANAGEMENT PENJUALAN
+  * Seo On Page
